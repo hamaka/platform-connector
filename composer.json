@@ -42,6 +42,13 @@
     "sensiolabs/security-checker": "^5",
     "squizlabs/php_codesniffer": "^2"
   },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/carelevers/common"
+        }
+    
+    ],
   "autoload": {
     "psr-4": {
       "WebservicesNl\\": "src"
