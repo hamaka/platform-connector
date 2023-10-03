@@ -30,7 +30,7 @@
     "ext-dom": "*",
     "guzzlehttp/guzzle": "^6 || ^7.0.1",
 
-    "webservices-nl/common": "ss5 as dev-master",
+    "webservices-nl/common": "ss5 as 0.0.9",
     "webservices-nl/utils": "dev-master"
   },
   "require-dev": {
